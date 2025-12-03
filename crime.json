@@ -1,0 +1,78 @@
+[
+  {
+    "id": "inc_001",
+    "type": "harassment",
+    "severity": "high",
+    "lat": 13.0422,
+    "lng": 80.2339,
+    "area": "T Nagar",
+    "street": "North Usman Road",
+    "landmark": "Bus Stand",
+    "city": "Chennai",
+    "time": "2025-12-03T10:20:00Z",
+    "description": "A woman reported verbal harassment by two men near the bus stand.",
+    "source": "user_report",
+    "confidence": 0.86,
+    "media": {
+      "images": [],
+      "video": null
+    }
+  },
+  {
+    "id": "inc_002",
+    "type": "chain_snatching",
+    "severity": "medium",
+    "lat": 13.0401,
+    "lng": 80.2361,
+    "area": "T Nagar",
+    "street": "Pondy Bazaar Road",
+    "landmark": "Shopping Mall Entrance",
+    "city": "Chennai",
+    "time": "2025-12-03T09:15:00Z",
+    "description": "Two bike riders snatched a gold chain from a passerby.",
+    "source": "police_fir",
+    "confidence": 0.95,
+    "media": {
+      "images": ["pic1.jpg"],
+      "video": null
+    }
+  },
+  {
+    "id": "inc_003",
+    "type": "theft",
+    "severity": "low",
+    "lat": 13.0450,
+    "lng": 80.2320,
+    "area": "Mylapore",
+    "street": "RK Mutt Road",
+    "landmark": "Temple Parking Area",
+    "city": "Chennai",
+    "time": "2025-12-02T22:50:00Z",
+    "description": "Mobile phone stolen from a parked bike in a crowded area.",
+    "source": "user_report",
+    "confidence": 0.73,
+    "media": {
+      "images": [],
+      "video": null
+    }
+  },
+  {
+    "id": "inc_004",
+    "type": "eve_teasing",
+    "severity": "medium",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "area": "Anna Nagar",
+    "street": "2nd Avenue",
+    "landmark": "Metro Station",
+    "city": "Chennai",
+    "time": "2025-12-01T18:40:00Z",
+    "description": "Group of men teasing school girls near the Metro entrance.",
+    "source": "citizen_patrol",
+    "confidence": 0.80,
+    "media": {
+      "images": [],
+      "video": null
+    }
+  }
+]
