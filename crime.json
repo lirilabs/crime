@@ -135,4 +135,24 @@
     "confidence": 0.69,
     "media": { "images": [], "video": null }
   }
+  {
+  "id": "inc_021",
+  "type": "harassment",
+  "severity": "medium",
+  "lat": 10.6584,
+  "lng": 77.0089,
+  "area": "Pollachi Roundana",
+  "street": "Roundana Circle Road",
+  "landmark": "Pollachi Roundana Junction",
+  "city": "Pollachi",
+  "time": "2025-12-03T20:10:00Z",
+  "description": "Two men were seen harassing women near the Roundana bus waiting area during late evening hours.",
+  "source": "user_report",
+  "confidence": 0.83,
+  "media": {
+    "images": [],
+    "video": null
+  }
+}
+
 ]
