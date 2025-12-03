@@ -1,4 +1,7 @@
 [
+  /* ============================
+      CHENNAI
+  ============================ */
   {
     "id": "inc_001",
     "type": "harassment",
@@ -32,9 +35,9 @@
     "media": { "images": ["pic1.jpg"], "video": null }
   },
 
-  /* =============================
-       COIMBATORE
-  ============================= */
+  /* ============================
+      COIMBATORE
+  ============================ */
   {
     "id": "inc_015",
     "type": "harassment",
@@ -67,26 +70,10 @@
     "confidence": 0.93,
     "media": { "images": [], "video": null }
   },
-  {
-    "id": "inc_017",
-    "type": "stalking",
-    "severity": "high",
-    "lat": 10.9987,
-    "lng": 76.9696,
-    "area": "Peelamedu",
-    "street": "Avinashi Road",
-    "landmark": "Fun Mall Nearby",
-    "city": "Coimbatore",
-    "time": "2025-12-01T18:30:00Z",
-    "description": "Woman reported a man following her for several minutes near the mall.",
-    "source": "user_report",
-    "confidence": 0.84,
-    "media": { "images": [], "video": null }
-  },
 
-  /* =============================
-       POLLACHI
-  ============================= */
+  /* ============================
+      POLLACHI
+  ============================ */
   {
     "id": "inc_018",
     "type": "eve_teasing",
@@ -98,61 +85,185 @@
     "landmark": "Bus Stand",
     "city": "Pollachi",
     "time": "2025-12-03T17:20:00Z",
-    "description": "Group of boys teasing college girls returning from bus stand.",
+    "description": "Group of boys teasing college girls returning from the bus stand.",
     "source": "citizen_patrol",
     "confidence": 0.82,
     "media": { "images": [], "video": null }
   },
   {
-    "id": "inc_019",
+    "id": "inc_021",
+    "type": "harassment",
+    "severity": "medium",
+    "lat": 10.6584,
+    "lng": 77.0089,
+    "area": "Pollachi Roundana",
+    "street": "Roundana Circle Road",
+    "landmark": "Pollachi Roundana Junction",
+    "city": "Pollachi",
+    "time": "2025-12-03T20:10:00Z",
+    "description": "Two men were seen harassing women near the Roundana junction during late evening hours.",
+    "source": "user_report",
+    "confidence": 0.83,
+    "media": { "images": [], "video": null }
+  },
+
+  /* ============================
+      MADURAI
+  ============================ */
+  {
+    "id": "inc_030",
+    "type": "theft",
+    "severity": "low",
+    "lat": 9.9195,
+    "lng": 78.1193,
+    "area": "Arappalayam",
+    "street": "Periyar Road",
+    "landmark": "Bus Stand",
+    "city": "Madurai",
+    "time": "2025-12-02T21:40:00Z",
+    "description": "Mobile phone stolen from woman's handbag while boarding the bus.",
+    "source": "user_report",
+    "confidence": 0.71,
+    "media": { "images": [], "video": null }
+  },
+
+  /* ============================
+      TRICHY
+  ============================ */
+  {
+    "id": "inc_040",
+    "type": "harassment",
+    "severity": "medium",
+    "lat": 10.8050,
+    "lng": 78.6851,
+    "area": "Chathiram",
+    "street": "Chathiram Bus Stand Road",
+    "landmark": "Bus Stand",
+    "city": "Trichy",
+    "time": "2025-12-01T19:15:00Z",
+    "description": "Harassment incident reported near the bus stand at night.",
+    "source": "user_report",
+    "confidence": 0.75,
+    "media": { "images": [], "video": null }
+  },
+
+  /* ============================
+      TIRUPPUR
+  ============================ */
+  {
+    "id": "inc_050",
+    "type": "snatching",
+    "severity": "high",
+    "lat": 11.1085,
+    "lng": 77.3411,
+    "area": "Avinashi Road",
+    "street": "Ring Road",
+    "landmark": "Garment Market",
+    "city": "Tiruppur",
+    "time": "2025-12-01T18:30:00Z",
+    "description": "Chain snatching reported in garment market crowd.",
+    "source": "police_fir",
+    "confidence": 0.94,
+    "media": { "images": [], "video": null }
+  },
+
+  /* ============================
+      SALEM
+  ============================ */
+  {
+    "id": "inc_060",
+    "type": "stalking",
+    "severity": "medium",
+    "lat": 11.6643,
+    "lng": 78.1460,
+    "area": "Four Roads",
+    "street": "Cherry Road",
+    "landmark": "Signal Junction",
+    "city": "Salem",
+    "time": "2025-12-03T16:40:00Z",
+    "description": "Woman reported someone following her from bus stop to junction.",
+    "source": "user_report",
+    "confidence": 0.78,
+    "media": { "images": [], "video": null }
+  },
+
+  /* ============================
+      ERODE
+  ============================ */
+  {
+    "id": "inc_070",
+    "type": "eve_teasing",
+    "severity": "medium",
+    "lat": 11.3410,
+    "lng": 77.7172,
+    "area": "Perundurai Road",
+    "street": "Market Street",
+    "landmark": "Textile Market",
+    "city": "Erode",
+    "time": "2025-12-01T14:20:00Z",
+    "description": "Eve teasing incident reported near textile market.",
+    "source": "citizen_patrol",
+    "confidence": 0.81,
+    "media": { "images": [], "video": null }
+  },
+
+  /* ============================
+      BENGALURU
+  ============================ */
+  {
+    "id": "inc_080",
     "type": "kidnap_attempt",
     "severity": "high",
-    "lat": 10.6699,
-    "lng": 77.0154,
-    "area": "Mahalingapuram",
-    "street": "Temple Street",
-    "landmark": "Kovil Entrance",
-    "city": "Pollachi",
-    "time": "2025-11-30T21:40:00Z",
-    "description": "Attempted kidnapping of a teenage girl reported by local residents.",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "area": "MG Road",
+    "street": "Church Street",
+    "landmark": "Metro Station",
+    "city": "Bengaluru",
+    "time": "2025-11-30T22:10:00Z",
+    "description": "Attempted kidnapping near a crowded nightlife spot.",
     "source": "police_fir",
     "confidence": 0.97,
     "media": { "images": [], "video": null }
   },
+
+  /* ============================
+      MUMBAI
+  ============================ */
   {
-    "id": "inc_020",
-    "type": "theft",
-    "severity": "low",
-    "lat": 10.6504,
-    "lng": 77.0067,
-    "area": "Udumalpet Road",
-    "street": "Subramani Layout",
-    "landmark": "Small Shops Area",
-    "city": "Pollachi",
-    "time": "2025-12-01T11:50:00Z",
-    "description": "Mobile theft reported in a small crowded neighborhood shop.",
+    "id": "inc_090",
+    "type": "stalking",
+    "severity": "high",
+    "lat": 19.0760,
+    "lng": 72.8777,
+    "area": "Dadar West",
+    "street": "Ranade Road",
+    "landmark": "Station",
+    "city": "Mumbai",
+    "time": "2025-12-01T19:40:00Z",
+    "description": "Woman reported being followed while walking from the station.",
     "source": "user_report",
-    "confidence": 0.69,
+    "confidence": 0.81,
+    "media": { "images": [], "video": null }
+  },
+
+  /* ============================
+      DELHI
+  ============================ */
+  {
+    "id": "inc_100",
+    "type": "eve_teasing",
+    "severity": "high",
+    "lat": 28.6328,
+    "lng": 77.2197,
+    "area": "Connaught Place",
+    "street": "Janpath Road",
+    "landmark": "Middle Circle",
+    "city": "Delhi",
+    "time": "2025-12-01T17:30:00Z",
+    "description": "Group of men verbally harassing women near shopping street.",
+    "source": "user_report",
+    "confidence": 0.88,
     "media": { "images": [], "video": null }
   }
-  {
-  "id": "inc_021",
-  "type": "harassment",
-  "severity": "medium",
-  "lat": 10.6584,
-  "lng": 77.0089,
-  "area": "Pollachi Roundana",
-  "street": "Roundana Circle Road",
-  "landmark": "Pollachi Roundana Junction",
-  "city": "Pollachi",
-  "time": "2025-12-03T20:10:00Z",
-  "description": "Two men were seen harassing women near the Roundana bus waiting area during late evening hours.",
-  "source": "user_report",
-  "confidence": 0.83,
-  "media": {
-    "images": [],
-    "video": null
-  }
-}
-
 ]
