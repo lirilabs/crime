@@ -251,20 +251,5 @@
   /* ============================
       DELHI
   ============================ */
-  {
-    "id": "inc_100",
-    "type": "eve_teasing",
-    "severity": "high",
-    "lat": 28.6328,
-    "lng": 77.2197,
-    "area": "Connaught Place",
-    "street": "Janpath Road",
-    "landmark": "Middle Circle",
-    "city": "Delhi",
-    "time": "2025-12-01T17:30:00Z",
-    "description": "Group of men verbally harassing women near shopping street.",
-    "source": "user_report",
-    "confidence": 0.88,
-    "media": { "images": [], "video": null }
-  }
+ 
 ]
