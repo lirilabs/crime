@@ -83,22 +83,23 @@
     "confidence": 0.82,
     "media": { "images": [], "video": null }
   },
-  {
-    "id": "inc_021",
-    "type": "harassment",
-    "severity": "medium",
-    "lat": 10.68960953516722,
-    "lng": 77.05114001404021,
-    "area": "Pollachi Roundana",
-    "street": "Roundana Circle Road",
-    "landmark": "Pollachi Roundana Junction",
-    "city": "Pollachi",
-    "time": "2025-12-03T20:10:00Z",
-    "description": "Two men were seen harassing women near the Roundana junction during late evening hours.",
-    "source": "user_report",
-    "confidence": 0.83,
-    "media": { "images": [], "video": null }
-  },
+{
+  "id": "inc_021",
+  "type": "harassment",
+  "severity": "medium",
+  "lat": 10.660239,
+  "lng": 77.010828,
+  "area": "Pollachi Roundana",
+  "street": "Roundana Circle Road",
+  "landmark": "Pollachi Roundana Junction",
+  "city": "Pollachi",
+  "time": "2025-12-03T20:10:00Z",
+  "description": "Two men were seen harassing women near the Roundana junction during late evening hours.",
+  "source": "user_report",
+  "confidence": 0.83,
+  "media": { "images": [], "video": null }
+},
+
 
 
   {
